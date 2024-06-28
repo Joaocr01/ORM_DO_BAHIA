@@ -1,0 +1,13 @@
+{
+  "name": "orm_do_bahia",
+  "version": "1.0.0",
+  "main": "orm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "orm_do_bahia": "^1.0.0"
+  }
+}
